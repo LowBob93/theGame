@@ -18,7 +18,7 @@ public class theX0Game {
             printMap();
             System.out.println("__________");
             if (isWin(X_DOT)) {
-                System.out.println("Победа");
+                System.out.println("Победа!");
                 break;
             }
             if (isDraw()) {
